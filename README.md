@@ -27,3 +27,9 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Usage
+To run this program, utilize the VSCode Live Server extension. On windows 11, I do ctrl+shift+p, then click "Live Preview: Start Server". The HTML Page should show up from there.
+
+## Note
+For some reason, the validator was stating I had an open body tag, when that wasnt the case. It was also only taking around half of my HTML, for some reason.
